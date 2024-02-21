@@ -21,7 +21,8 @@ const Detail = ({exerciseDetail}) => {
     {
       icon:EquipmentImage,
       name: equipment,
-    }
+    },
+    
   ]
 
   return (
